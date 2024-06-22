@@ -6,7 +6,7 @@ accelerate==0.21.0
 pyyaml==6.0
 Pillow==9.2.0
 scipy==1.9.3
-tqdm==4.64.1
+tqdm==4.66.3
 psutil==5.9.5
 numpy==1.23.5
 pytorch_lightning==1.9.4
